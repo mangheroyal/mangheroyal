@@ -14,7 +14,7 @@
 - 🔐 Exploring Cybersecurity & Ethical Hacking
 - 🌱 Always learning new technologies
 
-<marque>---------------------</marque>
+<marquee>---------------------</marquee>
 ## 🛠️ Tech Stack
 
 - C

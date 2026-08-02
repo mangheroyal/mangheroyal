@@ -5,17 +5,13 @@
   Passionate about building innovative projects using Arduino, ESP32, Web Technologies, and AI.
 </p>
 
----
-
 ## 🚀 About Me
 
-- 🎓 BCA Student
+- 🎓 AI & ML Student
 - 💻 Learning Full-Stack Web Development
 - 🤖 Building IoT Projects with Arduino & ESP32
 - 🔐 Exploring Cybersecurity & Ethical Hacking
 - 🌱 Always learning new technologies
-
----
 
 ## 🛠️ Tech Stack
 
@@ -29,16 +25,12 @@
 - Arduino
 - ESP32
 
----
-
 ## 📌 Featured Projects
 
 - 🌐 HealSphere
 - 🚪 ExitPure
 - 📱 IoT Projects
 - 💡 More projects coming soon...
-
----
 
 ## 📫 Connect with Me
 

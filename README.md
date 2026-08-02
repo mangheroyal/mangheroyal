@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,<br>I'm Rajanpreet Singh</h1>
-<h3 align="center">CSE Student | IoT Developer<BR></BR>Web Developer | Cybersecurity Learner</h3>
+<h3 align="center">CSE Student | IoT Developer</BR>Web Developer | Cybersecurity Learner</h3>
 
 <p align="center">
   Passionate about building innovative projects using Arduino, ESP32, Web Technologies, and AI.

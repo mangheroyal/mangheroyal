@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajanpreet Singh</h1>
+<h1 align="center">Hi 👋,<br>I'm Rajanpreet Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BCA+Student;Full+Stack+Developer;IoT+%7C+Arduino+%7C+ESP32;Cybersecurity+Learner;Always+Building+Something+New+🚀" />

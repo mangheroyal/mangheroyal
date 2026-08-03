@@ -42,11 +42,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajandevx&layout=compact&theme=tokyonight)
 
 ---
+## 📈 Activity Graph
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rajandevx&theme=tokyonight&margin-w=15)
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajandevx&theme=github-dark"/>
+</p>
 ---
 
 ## 🐍 Contribution Snake

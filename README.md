@@ -1,62 +1,222 @@
-<h1 align="center">Hi 👋,<br>I'm Rajanpreet Singh</h1>
+# ⚡ RAJANPREET SINGH
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BCA+Student;Full+Stack+Developer;IoT+%7C+Arduino+%7C+ESP32;Cybersecurity+Learner;Always+Building+Something+New+🚀" />
-</p>
+### BCA Student • IoT Developer • Web Developer • Cybersecurity Learner
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajandevx&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;BCA+Student+from+India.;IoT+Developer.;Arduino+%7C+ESP32+Projects.;Web+Developer.;Learning+Cybersecurity+🚀" />
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)](https://github.com/rajandevx)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 whoami
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+```python
+class RajanpreetSingh:
+
+    def __init__(self):
+        self.name = "Rajanpreet Singh"
+        self.username = "rajandevx"
+        self.location = "India 🇮🇳"
+        self.role = "BCA Student"
+
+        self.code = [
+            "C",
+            "C++",
+            "Python",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+
+        self.hardware = [
+            "Arduino",
+            "ESP32"
+        ]
+
+        self.learning = [
+            "Cybersecurity",
+            "Full Stack Development",
+            "Artificial Intelligence"
+        ]
+
+        self.projects = [
+            "HealSphere",
+            "ExitPure",
+            "Arduino IoT Projects"
+        ]
+
+        self.goal = "Learn, Build & Share 🚀"
+
+
+me = RajanpreetSingh()
+```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚔️ About Me
 
 - 🎓 BCA Student
-- 💻 Full-Stack Web Developer
-- 🤖 IoT & Embedded Systems (Arduino, ESP32)
-- 🔐 Learning Cybersecurity
-- 🌱 Always exploring new technologies
+- 🤖 Building IoT Projects with Arduino & ESP32
+- 💻 Learning Full Stack Development
+- 🔐 Exploring Cybersecurity
+- 🌱 Passionate about Open Source
+- 🚀 Always building something new
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Arsenal
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+<div align="center">
+
+### Languages
+
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rajandevx&show_icons=true&theme=tokyonight)
+## 🩺 HealSphere
 
-![Streak](https://streak-stats.demolab.com?user=rajandevx&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajandevx&layout=compact&theme=tokyonight)
+Healthcare project built during HackSpark Hackathon.
 
 ---
-## 📈 Activity Graph
 
-<p align="center">
+## 🚪 ExitPure
+
+Smart washroom automation project using Arduino.
+
+---
+
+## 🤖 Arduino & ESP32 Projects
+
+IoT-based automation and embedded systems projects.
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajandevx&show_icons=true&theme=github_dark&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=rajandevx&theme=github-dark&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajandevx&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajandevx&theme=github-dark"/>
-</p>
----
 
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/rajandevx/rajandevx/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ---
 
-## 📫 Connect
+# 🐍 Contribution Snake
 
-- 💼 GitHub: https://github.com/rajandevx
+> ⚠️ Requires GitHub Actions workflow.
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rajandevx/rajandevx/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Cybersecurity
+  - Full Stack Development
+  - AI
+
+Building:
+  - IoT Projects
+  - Web Applications
+  - Arduino Solutions
+
+Goals:
+  - Contribute to Open Source
+  - Build Innovative Products
+  - Improve Every Day
+```
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/rajandevx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+> "Keep Learning. Keep Building. Never Stop."
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>

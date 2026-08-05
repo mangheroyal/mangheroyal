@@ -28,7 +28,7 @@ class RajanpreetSingh:
     def __init__(self):
         self.name = "Rajanpreet Singh"
         self.username = "rajandevx"
-        self.location = "India 🇮🇳"
+        self.location = "Punjab"
         self.role = "BCA Student"
 
         self.code = [

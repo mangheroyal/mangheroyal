@@ -139,15 +139,15 @@ IoT-based automation and embedded systems projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajandevx&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mangheroyal &show_icons=true&theme=github_dark&hide_border=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=rajandevx&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mangheroyal&theme=github-dark&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajandevx&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangheroyal &layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -157,7 +157,7 @@ IoT-based automation and embedded systems projects.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajandevx&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mangheroyal&theme=github-dark"/>
 
 </div>
 
@@ -167,7 +167,7 @@ IoT-based automation and embedded systems projects.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajandevx/rajandevx/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/mangheroyal/mangheroyal/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 

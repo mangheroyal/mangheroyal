@@ -1,7 +1,8 @@
 # ⚡ RAJANPREET SINGH
 
-### BCA Student • IoT Developer • Web Developer • Cybersecurity Learner
-
+<div align="center">
+<h3>BCA Student • IoT Developer <br>Web Developer • Cybersecurity Learner</h3>
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;BCA+Student+from+India.;IoT+Developer.;Arduino+%7C+ESP32+Projects.;Web+Developer.;Learning+Cybersecurity+🚀" />

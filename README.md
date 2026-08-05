@@ -139,15 +139,15 @@ IoT-based automation and embedded systems projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mangheroyal &show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mangheroyal&show_icons=true&theme=github_dark&hide_border=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=mangheroyal&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com? username=mangheroyal&theme=github-dark&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangheroyal &layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangheroyal&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 

@@ -164,8 +164,6 @@ IoT-based automation and embedded systems projects.
 
 # 🐍 Contribution Snake
 
-> ⚠️ Requires GitHub Actions workflow.
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/rajandevx/rajandevx/output/github-contribution-grid-snake-dark.svg"/>
